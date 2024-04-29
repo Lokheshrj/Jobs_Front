@@ -30,8 +30,7 @@
       "react-app/jest"
     ]
   },
-  "browserslist": 
-  {
+  "browserslist": {
     "production": [
       ">0.2%",
       "not dead",
@@ -41,7 +40,8 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ],
+    ]
+  },
   "name": "job-portal-backend",
   "version": "1.0.0",
   "description": "",
@@ -72,7 +72,5 @@
     "passport-jwt": "^4.0.0",
     "passport-local": "^1.0.0",
     "uuid": "^8.3.2"
-
   }
-}
 }
