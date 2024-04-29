@@ -1,6 +1,4 @@
 export const server = "https://jobs-backend-4671.onrender.com";
-
-
 const apiList = {
   login: `${server}/auth/login`,
   signup: `${server}/auth/signup`,
